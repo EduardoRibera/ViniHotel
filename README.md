@@ -1,8 +1,4 @@
 
-  # Prototipo Hotel
-
-  This is a code bundle for Prototipo Hotel. The original project is available at https://www.figma.com/design/yFYk1S1diB5YxuWRbn24ir/Prototipo-Hotel.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
