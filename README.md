@@ -17,3 +17,4 @@
   4. Esperar a que se inicie el LocalHost
   5. En el Navegador colocar el host que proporciona vite
   6. http://localhost:5173
+  6. http://localhost:5173
